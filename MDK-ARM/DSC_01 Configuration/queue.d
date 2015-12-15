@@ -1,0 +1,16 @@
+dsc_01 configuration/\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+dsc_01 configuration/\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+dsc_01 configuration/\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+dsc_01 configuration/\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+dsc_01 configuration/\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+dsc_01 configuration/\queue.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+dsc_01 configuration/\queue.o: ../Inc/FreeRTOSConfig.h
+dsc_01 configuration/\queue.o: ../Inc/mxconstants.h
+dsc_01 configuration/\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+dsc_01 configuration/\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+dsc_01 configuration/\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+dsc_01 configuration/\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+dsc_01 configuration/\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+dsc_01 configuration/\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+dsc_01 configuration/\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+dsc_01 configuration/\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
